@@ -1,0 +1,18 @@
+body{
+  background-color: orange;
+}
+
+
+span {
+  background-color: blue;
+}
+#firstSpan{
+  color: white;
+}
+#secSpan{
+  color: cyan;
+}
+
+.big{
+  font-size: 3em;
+}
